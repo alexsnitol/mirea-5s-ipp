@@ -1,13 +1,13 @@
-package ru.senla.task8.client;
+package ru.mirea.task8.client;
 
 import io.grpc.ManagedChannel;
 import io.grpc.ManagedChannelBuilder;
-import ru.senla.task8.Message;
-import ru.senla.task8.ToDoRequest;
-import ru.senla.task8.ToDoRequestById;
-import ru.senla.task8.ToDoResponse;
-import ru.senla.task8.ToDoServiceGrpc;
-import ru.senla.task8.ToDoUpdateRequestById;
+import ru.mirea.task8.Message;
+import ru.mirea.task8.ToDoRequest;
+import ru.mirea.task8.ToDoRequestById;
+import ru.mirea.task8.ToDoResponse;
+import ru.mirea.task8.ToDoServiceGrpc;
+import ru.mirea.task8.ToDoUpdateRequestById;
 
 import java.util.Iterator;
 import java.util.Scanner;

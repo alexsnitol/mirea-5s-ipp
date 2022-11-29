@@ -1,4 +1,4 @@
-package ru.senla.task8.server;
+package ru.mirea.task8.server;
 
 import io.grpc.Server;
 import io.grpc.ServerBuilder;

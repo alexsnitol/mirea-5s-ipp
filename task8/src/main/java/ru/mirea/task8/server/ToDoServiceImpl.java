@@ -1,12 +1,12 @@
-package ru.senla.task8.server;
+package ru.mirea.task8.server;
 
 import io.grpc.stub.StreamObserver;
-import ru.senla.task8.Message;
-import ru.senla.task8.ToDoRequest;
-import ru.senla.task8.ToDoRequestById;
-import ru.senla.task8.ToDoResponse;
-import ru.senla.task8.ToDoServiceGrpc;
-import ru.senla.task8.ToDoUpdateRequestById;
+import ru.mirea.task8.Message;
+import ru.mirea.task8.ToDoRequest;
+import ru.mirea.task8.ToDoRequestById;
+import ru.mirea.task8.ToDoResponse;
+import ru.mirea.task8.ToDoServiceGrpc;
+import ru.mirea.task8.ToDoUpdateRequestById;
 
 import java.time.LocalDateTime;
 import java.util.HashMap;
